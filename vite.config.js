@@ -7,7 +7,7 @@ export default defineConfig({
     hmr: {
       // set MIME type for JSX files
       mimeTypes: {
-        'text/jsx': ['js'],
+        'text/jsx': ['jsx'],
       },
     },
   },
